@@ -1,0 +1,5 @@
+markdownify
+smolagents==1.13.0
+requests
+duckduckgo_search
+pandas
