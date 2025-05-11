@@ -15,4 +15,7 @@ Archive of follow-along notebooks and demos, with extra tryouts.
 https://github.com/user-attachments/assets/0b89e0bf-00c5-410b-b132-ae454275ef1b
 
 ### Live Demo
-🚀 Visit the live application: [First Agent Using smolagents](https://karenwky-first-agent-template.hf.space)
+🚀 Visit the live application: [First Agent Using smolagents](https://huggingface.co/spaces/karenwky/first_agent_template)
+
+> [!WARNING]
+> Access token is not configured for preserving limited free inference usage. Feel free to duplicate the space and add your Hugging Face token to try it out!
