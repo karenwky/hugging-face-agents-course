@@ -26,3 +26,6 @@ https://github.com/user-attachments/assets/9e8f2a4c-f184-44f0-b64f-645fd0075474
 👉 [Source Code](https://github.com/karenwky/hugging-face-agents-course/tree/main/convert_unit_tool) 🪐 [HF Space](https://huggingface.co/spaces/karenwky/convert_unit_tool)
 
 https://github.com/user-attachments/assets/df8fe5a5-614f-4459-8939-86d1c8767cfb
+
+## Resources
+- [Hugging Face Agents Course](https://huggingface.co/learn/agents-course)
