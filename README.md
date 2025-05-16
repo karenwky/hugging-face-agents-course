@@ -35,3 +35,6 @@ https://github.com/user-attachments/assets/c8192e80-1b72-4fc5-b1d1-24d0bd8af001
 
 ## Resources
 - [Hugging Face Agents Course](https://huggingface.co/learn/agents-course)
+- smolagents [GitHub](https://github.com/huggingface/smolagents) | [Documentation](https://huggingface.co/docs/smolagents/)
+- LlamaIndex [GitHub](https://github.com/run-llama/llama_index) | [Documentation](https://docs.llamaindex.ai/)
+- LangGraph [GitHub](https://github.com/langchain-ai/langgraph) | [Documentation](https://langchain-ai.github.io/langgraph/)
