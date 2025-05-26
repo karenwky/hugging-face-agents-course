@@ -2,10 +2,10 @@
 Archive of follow-along notebooks and demos, with additional trials. 
 
 ## Agents/Tools
-- [First Agent Using smolagents](https://github.com/karenwky/hugging-face-agents-course/tree/main?tab=readme-ov-file#%EF%B8%8F-first-agent-using-smolagents)
-- [Party Agent](https://github.com/karenwky/hugging-face-agents-course/tree/main?tab=readme-ov-file#-party-agent)
-- [Convert Unit Tool](https://github.com/karenwky/hugging-face-agents-course/tree/main?tab=readme-ov-file#-convert-unit-tool)
-- [Browser Agent](https://github.com/karenwky/hugging-face-agents-course/tree/main?tab=readme-ov-file#-browser-agent)
+- [First Agent Using smolagents](#%EF%B8%8F-first-agent-using-smolagents)
+- [Party Agent](#-party-agent)
+- [Convert Unit Tool](#-convert-unit-tool)
+- [Browser Agent](#-browser-agent)
 
 ## ⚡️ First Agent Using smolagents
 👉 [Source Code](https://github.com/karenwky/hugging-face-agents-course/tree/main/first_agent_template) 🪐 [HF Space](https://huggingface.co/spaces/karenwky/first_agent_template)
